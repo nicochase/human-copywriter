@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human Copywriter"
+  short_description: "Natural website copy and grounded SEO articles"
+  default_prompt: "Use $human-copywriter to write or improve website copy in my brand voice."
