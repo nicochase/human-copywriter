@@ -41,7 +41,7 @@ Codex installs into `$CODEX_HOME/skills/human-copywriter`, falling back to `~/.c
 python3 scripts/manage.py package
 ```
 
-Upload `dist/human-copywriter.zip` at **Customize → Skills → + → Create skill → Upload a skill**, then enable it. Skills/code-execution availability may depend on account or organization settings. ZIP packaging is validated locally; a live upload must be tested in your account. See [Claude's official instructions](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
+Upload `dist/human-copywriter.zip` at **Customize → Skills → + → Create skill → Upload a skill**, then enable it. You can also download the prepared ZIP from [GitHub Releases](https://github.com/nicochase/human-copywriter/releases). Skills/code-execution availability may depend on account or organization settings. ZIP packaging is validated locally; a live upload must be tested in your account. See [Claude's official instructions](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
 The archive contains the `human-copywriter/` folder, its instructions, relative resources and license. It excludes this README, scripts, evaluation outputs, Git history and private brand profiles.
 
@@ -66,4 +66,4 @@ The installed skill is content-only. Packaging/install scripts are maintenance t
 
 See [ATTRIBUTION.md](ATTRIBUTION.md) and [LICENSE](LICENSE). Retains the MIT notices for both upstream repositories. Shared concepts have been selectively rewritten, reconciled and adapted; this is not the complete marketing library and is not endorsed by the upstream authors.
 
-This folder is ready to serve as a standalone Git repository. A public/private GitHub destination is a separate choice; no remote is configured by the package.
+Hosted at [nicochase/human-copywriter](https://github.com/nicochase/human-copywriter). The repository is private; viewing it and downloading release assets requires repository access.
