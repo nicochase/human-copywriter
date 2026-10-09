@@ -19,6 +19,8 @@ Use concrete benefits and relevant proof without exaggerating pain. Real objecti
 
 Explain existing offer terms accurately: deliverable, timing, customer effort, price/payment conditions, support, guarantees and cancellation. Missing terms are gaps to flag, not business decisions to make. Don't add bonuses, a refund promise, a deadline or scarce capacity merely because a framework recommends them. Use actual availability or expiry only with a reliable basis.
 
+State necessary proof qualifications once where readers need them; do not repeat caution or trial-evaluation advice to fill a target length. If the supplied offer facts cannot support a useful full-length section, write the concise truthful version and flag the specific missing offer information separately. Preserve grounded persuasion.
+
 Treat positioning and conversion ideas as hypotheses. A formula or an editorial score cannot establish a conversion lift. Do not import the upstream repos' unsourced numerical lift claims.
 
 ## Headline and CTA

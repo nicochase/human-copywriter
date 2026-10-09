@@ -16,9 +16,11 @@ Answer direct informational questions early when that fits the format, then expl
 
 Use descriptive H1/H2/H3 headings and natural terminology. Retain exact required keywords where the brief requires them, but don't force repetitions, exact-match anchors or keyword density. Preserve technical terms when they are the correct words. Explain unfamiliar concepts when the audience needs it.
 
+Give each section the space its substance needs. Do not require the same lesson–example–takeaway sequence under every heading. A simple instruction can be short; expand difficult decisions, relevant exceptions and supported explanations. Preserve scannability rather than forcing artificial unevenness. A recap is optional once the reader has the answer.
+
 Use tables, steps or examples when they make an answer easier to apply. Lists and FAQs are optional, not mandatory “AI citation” blocks. Supported next-step links or modest relevant product mentions can be useful; avoid making every paragraph an advertisement.
 
-Add citations near claims when requested or necessary for trust. Link to evidence actually inspected; supplied sources can be cited as supplied, not independently verified. Distinguish illustration from real findings. Keep estimates, dates and uncertainty visible where meaning depends on them.
+Add citations near claims when requested or necessary for trust. Link to evidence actually inspected; supplied sources can be cited as supplied, not independently verified. Label hypothetical illustrations explicitly and use only details needed to explain them; prefer actual supplied cases when available. Distinguish illustration from real findings. Keep estimates, dates and uncertainty visible where meaning depends on them.
 
 For a full article, provide a truthful SEO title and meta description if useful. They should match the content and avoid inflated promises. Display-length ranges are practical heuristics, not ranking requirements. Provide an existing/recommended slug only when requested or needed; don't change a live URL casually. Suggest only relevant internal destinations that exist, or label a proposed destination clearly.
 

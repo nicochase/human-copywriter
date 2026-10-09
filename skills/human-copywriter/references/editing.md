@@ -5,7 +5,7 @@ Edit with a reason. Preserve the author's intent and good passages; a request to
 1. **Clarity and flow:** can the reader identify the point, follow references and understand what happens? Remove ambiguous pronouns, buried answers and needless abstractions. Don't erase necessary context.
 2. **Voice:** match the selected brand's register, rhythm and point of view. Keep deliberate personality; technical or formal prose can still be natural.
 3. **Reader relevance:** connect actual capabilities to meaningful benefits on commercial pages. In articles, useful explanation is enough; not every fact needs a persuasive benefit clause.
-4. **Proof and specificity:** inspect factual and comparative claims. Find actual supporting details or flag the gap. Never add a number, timeframe or precise provenance merely to make a line concrete.
+4. **Proof and specificity:** inspect factual and comparative claims. Find actual supporting details or flag the gap. Never add a number, timeframe or precise provenance merely to make a line concrete. Inspect unsupported verbal quantities and certainty as well as numerical claims. Check the evidence status of examples and remove invented incidental detail that implies experience.
 5. **Trust and action:** preserve necessary limitations. Resolve genuine objections with real facts. Make next steps clear without manufacturing certainty, urgency or risk reversals.
 
 After revising, check that improvements did not create new ambiguity or stronger claims. Apply the final Humanizer pass to the prose, then compare facts and website requirements with the input.

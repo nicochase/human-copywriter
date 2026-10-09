@@ -39,8 +39,20 @@ Do not add jokes, anecdotes, personal reactions, a casual “I,” research find
 | 25 | Talking about the document | Cut production chatter; retain necessary method, source credits and navigation. |
 | 26 | Re-explaining shared context | In replies, omit genuinely known context; standalone website readers may need it. |
 
+## Whole-piece review
+
+Read the complete draft for repeated rhetorical moves: broad observation followed by reversal; lesson followed by a perfectly convenient example; slogan-like section endings; or a conclusion that only repackages earlier advice. Quote the actual passages in the working critique before revising. A useful comparison or intentional parallelism may stay. Revise clusters that make the piece mechanical or repeat information, not every instance of a pattern.
+
+Replace a polished saying with a supported explanation or action when that serves the reader better. Rephrasing the same slogan does not resolve it: changing “A document nobody finishes protects nobody” to “A document abandoned halfway protects nobody” keeps the problem. A concrete instruction such as “Keep the main note short and link to background material” serves the reader without the saying.
+
+An opening should earn its space; a direct reader task may be sufficient. Stop once the answer is complete unless the ending adds a useful action, decision or navigation. Keep informative headings and ordered steps. Do not manufacture unevenness, impose sentence-length quotas, add typos, forced slang, digressions or fake uncertainty.
+
+Specificity must have a purpose and an evidence status. Real examples come from the brief or inspected sources. Label hypothetical examples clearly and omit invented names, dates or meetings unless essential to understanding. Never turn an illustration into apparent personal experience, a testimonial or a real case.
+
 ## Preservation check
 
 Compare before and after: who/what, speaker, advice versus promise, numbers and bounds, scope, timing, conditions, causal strength, quotes, source attribution, links and CTA promise. “Some” cannot become “all”; a pilot cannot become a typical result; a plan cannot become a current capability. “Ask when your bike will be ready” must not become “We'll tell you exactly when” without an actual supplied business commitment.
+
+Check whether a purported softening still predicts a universal result: “names nobody, so nobody starts” remains stronger than “name who should take the next action.” A final self-assessment is not evidence that this check passed. Inspect the revised words.
 
 Keep information that matters even if it makes prose less breezy. A disclaimer affecting the reader's decision is not filler. Preserve genuine author personality rather than making every brand sound alike. If a factual correction is necessary, explain it separately and support it; humanization itself supplies no new evidence.

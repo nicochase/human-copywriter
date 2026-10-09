@@ -2,7 +2,7 @@
 
 A focused skill for natural website copy and grounded SEO articles, adapted from Marketing Skills and Humanizer.
 
-**Brief → draft → substantive edit → human voice pass → factual/website check.**
+**Brief → draft → passage-specific edit → whole-article human voice review → factual/website check.**
 
 Write commercial pages, headlines and CTAs; write or refresh informational articles; edit existing copy; humanize supplied text. Match authentic brand samples when available, with a clear conversational default. Preserve evidence, qualifications, useful headings, citations, links and real offer terms.
 
@@ -51,14 +51,22 @@ Use the included [template](skills/human-copywriter/assets/brand-profile.md) whe
 
 Facts, evidence and voice samples belong in private project inputs, not this reusable repository. With several profiles, name the brand in the request. The skill does not persist profiles automatically.
 
+## Editorial evaluation
+
+For a test or editorial audit, ask for evaluation mode. It retains an initial draft, a critique quoting specific passages, the revised final and a factual comparison. Normal writing still returns finished copy with only material notes. Version 0.2 adds a whole-article rhetorical review, explicit hypothetical-example rules, verbal-quantity checks and stronger use of authentic voice samples. It keeps useful headings and allows good prose to stay unchanged.
+
+The skill is guidance, not an enforced multi-call workflow; evaluation artifacts make application inspectable. Separate reviewer execution must be available, authorized and actually performed before it is described as independent.
+
 ## Version and validation
 
-Version 0.1.0. Local package validation checks paths, relative resource links and frontmatter shape. Independent forward tests use supplied fictional briefs and assess the resulting writing for fact/meaning preservation, appropriate page type and voice. See [validation notes](VALIDATION.md) for actual results and limits.
+Version 0.2.0. Local package validation checks paths, relative resource links and frontmatter shape. Independent forward tests use supplied fictional briefs and assess the resulting writing for fact/meaning preservation, appropriate page type and voice. See [validation notes](VALIDATION.md) for actual results and limits.
 
 ```sh
 python3 scripts/manage.py check
 python3 -m unittest discover -s tests
 ```
+
+See the [rewritten handoff example](examples/project-handoff.md). It includes an additional editorial pass; it is not untouched model output. The small anonymous version comparison had mixed style results, while checked factual and formatting invariants were preserved.
 
 The installed skill is content-only. Packaging/install scripts are maintenance tools, not required while writing.
 
