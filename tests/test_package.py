@@ -52,5 +52,13 @@ class PackageTests(unittest.TestCase):
                 manage.check(installed)
 
 
+    def test_no_em_or_en_dashes_in_skill(self):
+        for path, data in manage.check().items():
+            if path.endswith(('.md', '.yaml')):
+                text = data.decode('utf-8')
+                self.assertNotIn('\u2014', text, path)
+                self.assertNotIn('\u2013', text, path)
+
+
 if __name__ == '__main__':
     unittest.main()

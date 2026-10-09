@@ -5,7 +5,7 @@ Use when testing the skill or when the user requests an editorial audit, not as 
 Retain four observable artifacts, in the user's requested format or an authorized test workspace:
 
 1. Initial draft from the supplied brief.
-2. Short editorial findings quoting the specific passages and explaining their problems. Inspect usefulness, whole-piece rhetorical repetition, evidence status of examples, voice and claim strength. Do not force a fixed count or invent defects in good prose.
+2. Short editorial findings quoting the specific passages and explaining their problems. Inspect usefulness, whole-piece rhetorical repetition, instructional rhythm (opening streaks, conditional pileup, same-shape sections, even coverage), evidence status of examples, voice, claim strength and any em or en dashes. Do not force a fixed count or invent defects in good prose.
 3. Revised final after substantive editing and the Humanizer pass.
 4. Factual comparison against the brief and initial draft: added/removed claims, numbers and verbal quantities, named entities, conditions, speaker, advice versus promise, quotes, links, headings and CTA intent. Note deliberate factual corrections separately. Repair any failed invariant and recheck the affected passage.
 

@@ -1,3 +1,48 @@
+# Version 0.3.0 validation
+
+October 9, 2026.
+
+## Why this version
+
+An anonymous AI writing checker scored the v0.2 handoff sample at 65 percent "AI-like signals." The checker is kept anonymous on purpose so the skill is not tuned to one tool. Its findings were editorial rather than vocabulary based: every paragraph followed instruction, reason, qualification; sentence openings repeated (Include, Link, Record, Keep); sections shared one shape; coverage was even, like a checklist; conditionals piled up; and examples felt generated rather than observed.
+
+## Changes
+
+- Humanizer: a new instructional rhythm review covering opening streaks, instructions that justify themselves, conditional pileup, explaining the obvious, sections that share one shape, and even coverage, with a before and after example.
+- Examples: clearly illustrative placeholder names, weekdays and recognizable everyday scenes are now allowed. Illustrations still may not be presented as real events, and first person anecdotes, case studies, testimonials, customer stories and results remain banned. v0.2 had stripped exactly this kind of placeholder from the sample.
+- SEO articles: a brief's topic list is coverage, not the outline or the weighting.
+- Default voice: plain observations and stated opinions alongside instructions.
+- No em or en dashes as punctuation in any voice, with exceptions only for exact quotes, proper names, URLs and code. A new unit test fails if the skill files themselves contain either character.
+- Test brief 09 (inbox cover during leave) targets instructional rhythm.
+
+Package check passes (ten skill files). All five unit tests pass.
+
+## Blind comparison
+
+Two subagents with the same model and settings each read one frozen skill copy (v0.2 from the previous commit, v0.3 candidate) and wrote final copy only. v0.2 wrote briefs 01, 05, 06, 07 and 09; v0.3 wrote all nine. A third agent read only anonymous pairs and the briefs, with X/Y assignment alternating by brief, and judged natural voice, usefulness and integrity.
+
+| Brief | Winner | Judge confidence | Deciding observation |
+| --- | --- | --- | --- |
+| 01 Handoff | v0.3 | Medium | v0.2 ran eight imperative sections with the same shape; v0.3 grouped topics, varied shape and used placeholder sample lines. |
+| 05 Bike repair shop | v0.3 | Low | Better voice; v0.2 was somewhat more useful on parts choices. Near tie. |
+| 06 Client feedback | v0.3 | Medium | v0.2 opened four sections with "Ask"; v0.3 started from the problem. |
+| 07 Author voice | v0.3 | High on voice fit | v0.3 kept the supplied first person voice; v0.2 turned it into a command sequence. |
+| 09 Inbox cover | v0.3 | Low | v0.2 repeated instruction, "For example," sample line in three sections. |
+
+The judge found no invented statistics, research, case studies, testimonials or first person events in any of the ten pieces, and no missing brief topic. On usefulness the two versions were close; where v0.2 won on usefulness it was the more thorough version, not the better voiced one.
+
+Factual fixtures, v0.3 only, checked by hand: brief 02 kept the six studio pilot scope, median 50 to 35 minutes, August 2026, 14 day trial, card required and $19/month renewal unless canceled (it ran under length because the brief gives no product capabilities, and it still spends two sentences on the pilot caveat). Brief 03 kept the id, href, "over 3,000," the capacity condition and the exact customer quote; it reworded "Same-day repairs" and "Customer comment:" around them. Brief 04 was returned unchanged. Brief 08 kept every condition and the exact URL.
+
+## Limits
+
+One judge, one sample per brief, all agents from the same model family, each writer producing its briefs within one session. The writers ran with the maintainer's personal settings loaded, which include a no hyphen and no dash rule, so this comparison cannot show the effect of the skill's own dash rule; neither version used dashes. Five wins out of five is directional evidence, not a benchmark. No detector was rerun by the maintainer within this record.
+
+## New sample article
+
+`examples/project-handoff.md` is the v0.3 output for brief 01, unedited. Unlike the v0.2 sample, it received no additional editorial pass.
+
+## Prior version record
+
 # Version 0.2.0 validation
 
 October 9, 2026.

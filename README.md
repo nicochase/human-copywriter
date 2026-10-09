@@ -53,13 +53,13 @@ Facts, evidence and voice samples belong in private project inputs, not this reu
 
 ## Editorial evaluation
 
-For a test or editorial audit, ask for evaluation mode. It retains an initial draft, a critique quoting specific passages, the revised final and a factual comparison. Normal writing still returns finished copy with only material notes. Version 0.2 adds a whole-article rhetorical review, explicit hypothetical-example rules, verbal-quantity checks and stronger use of authentic voice samples. It keeps useful headings and allows good prose to stay unchanged.
+For a test or editorial audit, ask for evaluation mode. It retains an initial draft, a critique quoting specific passages, the revised final and a factual comparison. Normal writing still returns finished copy with only material notes. Version 0.2 adds a whole-article rhetorical review, explicit hypothetical-example rules, verbal-quantity checks and stronger use of authentic voice samples. It keeps useful headings and allows good prose to stay unchanged. Version 0.3 targets the cadence that still reads as machine written in careful prose: runs of sentences opening with a command verb, instructions that justify themselves, piles of if/when/where conditions, sections that all share one shape, and briefs turned into checklists. It allows clearly illustrative placeholder names and everyday scenes in examples (never presented as real experience), and it never uses em or en dashes as punctuation.
 
 The skill is guidance, not an enforced multi-call workflow; evaluation artifacts make application inspectable. Separate reviewer execution must be available, authorized and actually performed before it is described as independent.
 
 ## Version and validation
 
-Version 0.2.0. Local package validation checks paths, relative resource links and frontmatter shape. Independent forward tests use supplied fictional briefs and assess the resulting writing for fact/meaning preservation, appropriate page type and voice. See [validation notes](VALIDATION.md) for actual results and limits.
+Version 0.3.0. Local package validation checks paths, relative resource links and frontmatter shape. Independent forward tests use supplied fictional briefs and assess the resulting writing for fact/meaning preservation, appropriate page type and voice. See [validation notes](VALIDATION.md) for actual results and limits.
 
 ```sh
 python3 scripts/manage.py check
@@ -74,4 +74,4 @@ The installed skill is content-only. Packaging/install scripts are maintenance t
 
 See [ATTRIBUTION.md](ATTRIBUTION.md) and [LICENSE](LICENSE). Retains the MIT notices for both upstream repositories. Shared concepts have been selectively rewritten, reconciled and adapted; this is not the complete marketing library and is not endorsed by the upstream authors.
 
-Hosted at [nicochase/human-copywriter](https://github.com/nicochase/human-copywriter). The repository is private; viewing it and downloading release assets requires repository access.
+Hosted publicly at [nicochase/human-copywriter](https://github.com/nicochase/human-copywriter).

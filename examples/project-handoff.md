@@ -1,41 +1,35 @@
-# How to write a project handoff someone can actually use
+# Handing over unfinished work
 
-Start your handoff with the current state of the work and the next thing someone needs to do. Say what is finished, what still needs attention, and whether anything is waiting for approval. The person taking over should be able to find that information without reading through the project's entire history.
+When you pass an unfinished project to a colleague, they need two things before anything else: where the work stands today, and what they should do next. Put both at the top of your handover note. Everything below that is reference.
 
-## Put the working files within reach
+## Where it stands and what comes next
 
-Link directly to the documents your colleague will use. Identify the current draft and explain where edits belong. If older copies have confusing names, mark them as reference material or move them into an archive. A file called v3_final_FINAL deserves a note if it is no longer the version to use.
+A vague status line leaves your colleague to reconstruct the state of things on their own. Here's an invented example of the difference.
 
-Ask your colleague to check the links before you leave. Opening a folder and editing a spreadsheet may require different permissions. Include the person to contact for missing access, especially for accounts managed by another team. If an access request is already pending, link to it.
+Vague: "Report nearly done, just needs a final pass."
 
-## Record decisions and unanswered questions
+Better: "Sections 1 to 3 are drafted and approved by Dana. Section 4 needs rewriting using the comments in the shared doc. After that, it goes back to Dana for sign off."
 
-Separate confirmed decisions from things that still need discussion. Record who approved a decision and include the reason when it would help someone understand a constraint or avoid repeating work.
+The second version says what's finished, what isn't, and who sees it next.
 
-Your recommendations can go in the note too. Label them as opinions, particularly when they concern scope, revisions or something the client might interpret as a commitment. The next owner needs to know which choices they can make and which require another conversation.
+## The live files, and whether they can open them
 
-You do not need to copy every exchange that led to a decision. Link to the relevant discussion when the detail matters. Keep a short explanation in the handoff itself if following the link would otherwise leave the reader guessing why it is there.
+Link to the current version of each file rather than the folder it lives in. If older copies sit beside it (report_v2, report_v3, report_final_FINAL), say which one is live or move the rest into an archive folder. Then check access. A link your colleague can't open turns into a permissions request, and you may not be around to approve it.
 
-## Show what is waiting on someone else
+## What's decided, what's open, and what's only your view
 
-List outstanding replies, approvals and dependencies beside the work they affect. Include who you contacted, when you asked, and any agreed deadline. Say whether other work can continue while you wait.
+These three blur together easily in a handover, and they lead to very different actions.
 
-Consider this hypothetical handoff note:
+Decisions are settled. Note who made each one, so nobody reopens it by accident. Open questions are still live, so list the options on the table and who is weighing in. Your opinions are yours alone and should be labelled that way. "I'd cut the appendix" is useful to hear, but it shouldn't read like something the team agreed.
 
-“Still waiting to hear back on the legal review.”
+## Owners and loose ends
 
-A more useful version would be:
+Every next step needs a named person. "Marketing will review" could mean anyone; "Leo reviews the copy" can't. List anything you're waiting on too: the reply you expect, who it's from, and when you asked. Without that, your colleague has no way of knowing an answer is overdue.
 
-“The legal reviewer still needs to approve the claim in section 3. The deck is ready apart from that approval and cannot go to the client until it arrives.”
+## A short note, with the background linked
 
-In the actual note, add the reviewer's name, the date you asked and the deadline, if one was agreed. Link to the request so your colleague can follow up without reconstructing the exchange. Do the same for a missing file, an unissued account or any other dependency.
+The note only needs what someone will use this week. Email threads, early drafts and meeting notes can sit in a linked archive for the moments when a question needs the history.
 
-## Assign the next action
+## Talk it through, then update the note
 
-Name the person taking responsibility and confirm that they understand what they are taking on. Specify a first action: review a section, request an approval, check the figures or attend a scheduled discussion. Where several people are involved, distinguish the owner from reviewers and contributors.
-
-## Keep the main note manageable
-
-Leave detailed history in linked documents. Check whether each item in the main note helps the next owner act, understand a constraint or locate something they need. Remove duplicated background, but keep qualifications that affect the work.
-
-If you can, walk through the handoff together. Let your colleague open the files, ask questions and check the next step. Afterwards, update the written note with any decisions, corrections or changes to ownership from that conversation.
+A short call gives your colleague the chance to ask about whatever the note doesn't cover. Afterwards, add anything new that came up, so they're working from the written record and not from memory of the conversation.

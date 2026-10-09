@@ -6,7 +6,7 @@ Adapted from Humanizer's 26 patterns, with website-writing and meaning-preservat
 
 Read the paragraph for what it actually says, then rewrite unnatural structure from those facts. Avoid merely replacing fashionable words with synonyms. Use authentic voice samples when provided; otherwise use the skill's editorial default. Vary rhythm according to the thought, not random sentence-length manipulation.
 
-Do not add jokes, anecdotes, personal reactions, a casual “I,” research findings or experience unless the author actually supplied them. Natural voice is compatible with honest uncertainty and technical precision. Preserve supported persuasion on commercial pages.
+Do not add jokes, anecdotes, personal reactions, a casual “I,” research findings or experience unless the author actually supplied them. You can still sound like someone who has seen the problem: describe what goes wrong when a step is skipped, or show a sample line, without claiming it happened to anyone. Natural voice is compatible with honest uncertainty and technical precision. Preserve supported persuasion on commercial pages.
 
 ## Pattern checklist
 
@@ -19,7 +19,7 @@ Do not add jokes, anecdotes, personal reactions, a casual “I,” research find
 | 5 | Arguing with nobody | Cut invented opponents; keep real audience objections. |
 | 6 | Forced triads | Keep only distinct useful items; three real items remain three. |
 | 7 | Repetitive sentence openings | Revise accidental repetition; preserve deliberate parallelism and clear referents. |
-| 8 | Excessive dashes | Match voice and destination style; preserve numeric ranges, quotes and exact names. |
+| 8 | Em and en dashes | Never use them as punctuation. Rewrite with a comma, period, colon or parentheses; write ranges as “50 to 35.” Leave exact quotes, proper names, URLs and code untouched. |
 | 9 | Stacked qualifiers | Remove filler; keep uncertainty, scope and availability conditions. |
 | 10 | Awkward hyphenated pairs | Simplify where clearer; preserve grammatical compounds and established terms. |
 | 11 | Missing actors/passive voice | Name the actor if known and useful; don't invent one or ban precise passive constructions. |
@@ -47,7 +47,24 @@ Replace a polished saying with a supported explanation or action when that serve
 
 An opening should earn its space; a direct reader task may be sufficient. Stop once the answer is complete unless the ending adds a useful action, decision or navigation. Keep informative headings and ordered steps. Do not manufacture unevenness, impose sentence-length quotas, add typos, forced slang, digressions or fake uncertainty.
 
-Specificity must have a purpose and an evidence status. Real examples come from the brief or inspected sources. Label hypothetical examples clearly and omit invented names, dates or meetings unless essential to understanding. Never turn an illustration into apparent personal experience, a testimonial or a real case.
+Specificity must have a purpose and an evidence status. Real examples come from the brief or inspected sources. Illustrations can be concrete: a placeholder first name, a weekday, a sample line someone might write, a file name the reader will recognize. They need to read plainly as examples (“say,” “for example,” a quoted sample line, a “you” scenario), not necessarily carry the word “hypothetical.” Never turn an illustration into apparent personal experience, a testimonial or a real case.
+
+## Instructional rhythm
+
+How to articles and checklists drift into one cadence: instruction, reason, qualification, repeat. Each sentence is fine alone. Together they read like a template. After the pattern checklist, read each section as a unit and look for these:
+
+- **Opening streaks.** Three or more sentences in a section that open with a command verb (Include, Link, Record, Keep). Turn one into an observation, a consequence or a sample line. Don't fix this by swapping one verb for another.
+- **The justified instruction.** “Do X and include Y when it would help someone understand Z.” Cut the generic benefit. If the reason matters, say what goes wrong without it.
+- **Conditional pileup.** Count the if, when and where clauses in a section. Keep the ones that change what the reader does. Cut the ones that only make the advice sound careful.
+- **Explaining the obvious.** Readers know why links help and why someone should own a task. Drop the “why” and keep the “what.”
+- **Same shape everywhere.** If every section is two paragraphs of similar length, change some. A section can be one sentence, a short list, or open with the mistake instead of the rule. Let the content decide; don't vary shape for its own sake.
+- **Even coverage.** A brief's topic list is what to cover, not the outline. Give the hard part the most room and fold minor points into a sentence elsewhere.
+
+Before: “Name the person taking responsibility and confirm that they understand what they are taking on. Specify a first action.”
+
+After: “Writing ‘Sarah is taking over’ isn't enough. Check that Sarah knows it, and give her somewhere to start, even if it's just ‘review the budget figures on Monday.’”
+
+The after version adds no facts. It shows the vague line and the better line instead of describing them, and the reader gets a concrete first step. Sarah and Monday are placeholders; they illustrate and claim nothing.
 
 ## Preservation check
 
