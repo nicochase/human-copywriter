@@ -59,7 +59,7 @@ The skill is guidance, not an enforced multi-call workflow; evaluation artifacts
 
 ## Version and validation
 
-Version 0.3.0. Local package validation checks paths, relative resource links and frontmatter shape. Independent forward tests use supplied fictional briefs and assess the resulting writing for fact/meaning preservation, appropriate page type and voice. See [validation notes](VALIDATION.md) for actual results and limits.
+Version 0.4.0. Local package validation checks paths, relative resource links and frontmatter shape. Independent forward tests use supplied fictional briefs and assess the resulting writing for fact/meaning preservation, appropriate page type and voice. See [validation notes](VALIDATION.md) for actual results and limits.
 
 ```sh
 python3 scripts/manage.py check
