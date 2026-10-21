@@ -59,6 +59,9 @@ How to articles and checklists drift into one cadence: instruction, reason, qual
 - **Explaining the obvious.** Readers know why links help and why someone should own a task. Drop the “why” and keep the “what.”
 - **Same shape everywhere.** If every section is two paragraphs of similar length, change some. A section can be one sentence, a short list, or open with the mistake instead of the rule. Let the content decide; don't vary shape for its own sake.
 - **Even coverage.** A brief's topic list is what to cover, not the outline. Give the hard part the most room and fold minor points into a sentence elsewhere.
+- **Instruction, then its qualifier.** “Note who approved it. Add the reason too when...” A pair like this in every paragraph is the template. Keep the qualifier only where it changes what the reader does.
+- **The example, then the checklist.** Once a sample line has made the point, don't follow it with every field the reader should include. Trust the example.
+- **Abstract triads.** “Helps them act, understand a constraint or find something.” Name the one concrete thing, or cut the list.
 
 Before: “Name the person taking responsibility and confirm that they understand what they are taking on. Specify a first action.”
 
@@ -66,10 +69,25 @@ After: “Writing ‘Sarah is taking over’ isn't enough. Check that Sarah know
 
 The after version adds no facts. It shows the vague line and the better line instead of describing them, and the reader gets a concrete first step. Sarah and Monday are placeholders; they illustrate and claim nothing.
 
+## Rewriting a whole piece
+
+When the user asks to humanize or rewrite a full article, a sentence by sentence paraphrase is not enough. It keeps the template, and the template is usually the problem. Light edits are for sentences, paragraphs and excerpts, or when the user asks to keep the structure.
+
+Run the paraphrase test on your draft. If it has the same sections in the same order, the same number of paragraphs, and each paragraph maps onto one original paragraph, you have reworded the template. Go back and rework the structure:
+
+- **Decide what matters most and say so.** Pick the one or two points that do the most damage when skipped and give them the room. Say it as the writer's judgment (“If the note gets one thing right, make it the next action”), never as a statistic or a claim about what most people do.
+- **Compress the rest.** A minor point can become a clause inside another paragraph. Sections can merge. Headings can change or disappear unless they are anchors or the user asked to keep them.
+- **Cut what the reader can work out.** Drop qualifications that don't change the action, field lists an example already shows, and edge cases the reader would handle on their own.
+- **Let some paragraphs just observe.** Not every paragraph needs an instruction. A sentence about what goes wrong, or a sample line, can carry a section.
+- **End where the useful content ends.** Not on a final process step, a recap, or “afterwards, update the note.” If the strongest point is last, stop there.
+- **Check the length.** If the rewrite is as long as the original or longer, you rearranged the material without cutting any of it. Go back and cut. A new order with every original sentence still in it is the same template.
+
+Keep every supplied fact and claim: numbers, names, terms, quotes, and conditions that change what the reader does. Individual tips are different. A step the reader would take without being told, or a qualification that only makes the advice sound careful, can go. Restructuring changes emphasis and form, never the claims.
+
 ## Preservation check
 
 Compare before and after: who/what, speaker, advice versus promise, numbers and bounds, scope, timing, conditions, causal strength, quotes, source attribution, links and CTA promise. “Some” cannot become “all”; a pilot cannot become a typical result; a plan cannot become a current capability. “Ask when your bike will be ready” must not become “We'll tell you exactly when” without an actual supplied business commitment.
 
 Check whether a purported softening still predicts a universal result: “names nobody, so nobody starts” remains stronger than “name who should take the next action.” A final self-assessment is not evidence that this check passed. Inspect the revised words.
 
-Keep information that matters even if it makes prose less breezy. A disclaimer affecting the reader's decision is not filler. Preserve genuine author personality rather than making every brand sound alike. If a factual correction is necessary, explain it separately and support it; humanization itself supplies no new evidence.
+Keep information that matters even if it makes prose less breezy. A disclaimer affecting the reader's decision is not filler. In a full rewrite, dropping a redundant qualification or a detail the example already shows is allowed; dropping a condition that changes what the reader should do is not. Preserve genuine author personality rather than making every brand sound alike. If a factual correction is necessary, explain it separately and support it; humanization itself supplies no new evidence.

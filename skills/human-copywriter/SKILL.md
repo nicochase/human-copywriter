@@ -2,7 +2,7 @@
 name: human-copywriter
 description: Write, edit, or humanize website copy and SEO articles using brand voice, grounded claims, reader intent, and a final natural-language edit.
 metadata:
-  version: 0.3.0
+  version: 0.4.0
 license: MIT
 ---
 
@@ -23,7 +23,7 @@ Choose the relevant mode and load only its reference:
 - New commercial page, headline, hero, CTA or value proposition: [website-copy.md](references/website-copy.md).
 - Informational article or SEO content refresh: [seo-articles.md](references/seo-articles.md).
 - Edit an existing draft: [editing.md](references/editing.md), with the relevant page-type reference only if needed.
-- Humanize supplied text: [humanizer.md](references/humanizer.md). Improve expression without changing the assignment or adding research-based facts.
+- Humanize supplied text: [humanizer.md](references/humanizer.md). Improve expression without changing the assignment or adding research-based facts. Match depth to the request: a sentence, paragraph or excerpt gets a light edit, while a full article to humanize or rewrite may be restructured (see “Rewriting a whole piece” in humanizer.md) unless the user asks to keep its structure.
 
 For new writing, use a compact internal brief, then draft by page type, substantively edit using [editing.md](references/editing.md), and finish prose using [humanizer.md](references/humanizer.md). For full drafts, identify specific weak passages before revising; review the complete piece as well as individual sentences. For narrow edits, apply the relevant checks directly. If the user wants to discuss an outline first, stop at the outline; otherwise deliver finished copy without unnecessary approval checkpoints.
 
